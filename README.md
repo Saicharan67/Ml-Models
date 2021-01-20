@@ -1,2 +1,3 @@
 # Ml-Models
-Here You can find various models using cnn and rnn 
+
+Here You can find various projects done using machine learning
